@@ -1,0 +1,1 @@
+# The-constructor-of-a-translator-in-the-theory-of-formal-languages-and-automata-based-on-the-input
